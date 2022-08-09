@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("../resource/fonts/Roboto-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Roboto-Bold";
+  src: url("../resource/fonts/Roboto-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Roboto-Medium";
+  src: url("../resource/fonts/Roboto-Medium.ttf") format("truetype");
+}
+
+
+*{
+  font-family: "Roboto-Regular";
+}
+
+.color-gray{
+  color: #878787;
+}
+.color-violet{
+  color: #5374CA;
+
+}
+.bold-font{
+  font-family: "Roboto-Bold";
+}
+.medium-font{
+  font-family: "Roboto-Medium";
+}
